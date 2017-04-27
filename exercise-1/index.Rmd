@@ -13,6 +13,5 @@ graph <- plot(cars$mpg, cars$cyl)
 
 **Cars Graphs**
 This is an interactive map.
-```{r}
-graph
-```
+
+`graph` .
